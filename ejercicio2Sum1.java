@@ -171,17 +171,17 @@ public class ejercicio2Sum1 {
         tec9.dato3();
         //Imprimos por pantalla los articulo ingresados por el usuario
         System.out.println("==========================================================");
-        System.out.println("Articulo               Precio/Unidad           N° de Cajas");
-        System.out.println(a1.B1() + "            " + a1.B2() + "           " + a1.B3() );
-        System.out.println(a2.B1() + "            " + a2.B2() + "           " + a2.B3() );
-        System.out.println(a3.B1() + "            " + a3.B2() + "           " + a3.B3() );
-        System.out.println(a4.B1() + "            " + a4.B2() + "           " + a4.B3() );
-        System.out.println(a5.B1() + "            " + a5.B2() + "           " + a5.B3() );
-        System.out.println(a6.B1() + "            " + a6.B2() + "           " + a6.B3() );
-        System.out.println(a7.B1() + "            " + a7.B2() + "           " + a7.B3() );
-        System.out.println(a8.B1() + "            " + a8.B2() + "           " + a8.B3() );
-        System.out.println(a9.B1() + "            " + a9.B2() + "           " + a9.B3() );
-        System.out.println(a10.B1() + "           " + a10.B2() + "          " + a10.B3() );
+        System.out.println("Articulo ║ Precio/Unidad ║ N° de Cajas");
+        System.out.println(a1.B1() + " " + a1.B2() + "$ " + a1.B3() );
+        System.out.println(a2.B1() + " " + a2.B2() + "$ " + a2.B3() );
+        System.out.println(a3.B1() + " " + a3.B2() + "$ " + a3.B3() );
+        System.out.println(a4.B1() + " " + a4.B2() + "$ " + a4.B3() );
+        System.out.println(a5.B1() + " " + a5.B2() + "$ " + a5.B3() );
+        System.out.println(a6.B1() + " " + a6.B2() + "$ " + a6.B3() );
+        System.out.println(a7.B1() + " " + a7.B2() + "$ " + a7.B3() );
+        System.out.println(a8.B1() + " " + a8.B2() + "$ " + a8.B3() );
+        System.out.println(a9.B1() + " " + a9.B2() + "$ " + a9.B3() );
+        System.out.println(a10.B1() + " " + a10.B2() + "$ " + a10.B3() );
         System.out.println("==========================================================");
     }
 }
